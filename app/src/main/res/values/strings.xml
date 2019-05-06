@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Aesops Fables</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_the_camel_and_the_arab">The Camel And The Arab</string>
+    <string name="title_activity_the_cat_maiden_fable">The Cat Maiden Fable</string>
+    <string name="title_activity_the_boys_and_the_frogs">The Boys And The Frogs</string>
+    <string name="title_activity_the_cock_and_the_jewel">The Cock And The Jewel</string>
+    <string name="title_activity_belling_the_cat">Belling The Cat</string>
+    <string name="title_activity_the_monkey_and_the_dolphin">The Monkey And The Dolphin</string>
+    <string name="title_activity_the_lion_and_the_boar">The Lion And The Boar</string>
+    <string name="title_activity_the_frogs">The Two Frogs</string>
+    <string name="title_activity_the_sick_stag">The Sick Stag</string>
+    <string name="title_activity_the_fisher">The Fisher</string>
+
+<string name="Fable_1_text">An Arab Camel-driver having completed the lading of his Camel, asked him which he would like best, to go up hill or down hill.\n
+
+The poor beast replied, not without a touch of reason: "Why do you ask me? Is it that the level way through the desert is closed?"\n</string>
+   <string name="Fable_2_text" >
+       The gods were once disputing whether it was possible for a living being to change its nature. \n
+
+Jupiter said "Yes," but Venus said "No." So, to try the question, Jupiter turned a Cat into a Maiden, and gave her to a young man for a wife.
+
+The wedding was duly performed and the young couple sat down to the wedding-feast. \n \n
+
+"See," said Jupiter, to Venus, "how becomingly she behaves. Who could tell that yesterday she was but a Cat? Surely her nature is changed?"
+
+"Wait a minute," replied Venus, and let loose a mouse into the room.\n \n
+
+No sooner did the bride see this than she jumped up from her seat and tried to pounce upon the mouse. \n
+
+"Ah, you see," said Venus, "Nature will out" \n
+   </string>
+<string name="Fable_3_text">A Cock, scratching for food for himself and his hens, found a precious stone; on which he said:\n
+
+    "If thy owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate;\n but I have found thee for no purpose.
+
+    I would rather have one barleycorn than all the jewels in the world."</string>
+    <string name="Fable_4_text">A great conflict was about to come off between the Birds and the Beasts.\n
+
+When the two armies were collected together the Bat hesitated which to join.\n
+
+The Birds that passed his perch said:
+
+"Come with us"; but he said: "I am a Beast."\n
+
+Later on, some Beasts who were passing underneath him looked up and said:
+
+"Come with us"; but he said: "I am a Bird."\n
+
+Luckily at the last moment peace was made, and no battle took place, so the Bat came to the Birds and wished to join in the rejoicings, but they all turned against him and he had to fly away.\n
+
+He then went to the Beasts, but soon had to beat a retreat, or else they would have torn him to pieces.
+
+"Ah," said the Bat, "I see now, He that is neither one thing nor the other has no friends."</string>
+
+</resources>
