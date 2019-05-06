@@ -31,27 +31,80 @@ No sooner did the bride see this than she jumped up from her seat and tried to p
 
 "Ah, you see," said Venus, "Nature will out" \n
    </string>
-<string name="Fable_3_text">A Cock, scratching for food for himself and his hens, found a precious stone; on which he said:\n
+<string name="Fable_3_text">Some boys, playing near a pond, saw a number of Frogs in the water, and began to pelt them with stones.\n
 
-    "If thy owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate;\n but I have found thee for no purpose.
+They killed several of them, when one of the Frogs, lifting his head out of the water, cried out:\n
 
-    I would rather have one barleycorn than all the jewels in the world."</string>
-    <string name="Fable_4_text">A great conflict was about to come off between the Birds and the Beasts.\n
+"Pray stop, my boys; what is sport to you is death to us."
+   </string>
+    <string name="Fable_4_text">A Cock, scratching for food for himself and his hens, found a precious stone; on which he said:
 
-When the two armies were collected together the Bat hesitated which to join.\n
+"If thy owner had found thee, and not I, he would have taken thee up, and have set thee in thy first estate; but I have found thee for no purpose.
 
-The Birds that passed his perch said:
+I would rather have one barleycorn than all the jewels in the world."</string>
 
-"Come with us"; but he said: "I am a Beast."\n
+    <string name="Fable_5_text">Long ago, the mice had a general council to consider what measures they could take to outwit their common enemy, the Cat.\n
 
-Later on, some Beasts who were passing underneath him looked up and said:
+Some said this, and some said that; but at last a young mouse got up and said he had a proposal to make, which he thought would meet the case.\n
 
-"Come with us"; but he said: "I am a Bird."\n
+"You will all agree," said he, "that our chief danger consists in the sly and treacherous manner in which the enemy approaches us. Now, if we could receive some signal of her approach,\n we could easily escape from her. I venture, therefore, to propose that a small bell be procured, and attached by a ribbon round the neck of the Cat. By this means we should always know when she was about, and could easily retire while she was in the neighbourhood."
 
-Luckily at the last moment peace was made, and no battle took place, so the Bat came to the Birds and wished to join in the rejoicings, but they all turned against him and he had to fly away.\n
+This proposal met with general applause, until an old mouse got up and said:
 
-He then went to the Beasts, but soon had to beat a retreat, or else they would have torn him to pieces.
+"That is all very well, but who is to bell the Cat?"\n
 
-"Ah," said the Bat, "I see now, He that is neither one thing nor the other has no friends."</string>
+The mice looked at one another and nobody spoke. Then the old mouse said:
 
+"It is easy to propose impossible remedies."</string>
+
+    <string name="Fable_6_text">A Sailor, bound on a long voyage, took with him a Monkey to amuse him while on shipboard.
+
+As he sailed off the coast of Greece, a violent tempest arose, in which the ship was wrecked, and he, his Monkey and all the crew were obliged to swim for their lives.\n
+
+A Dolphin saw the Monkey contending with the waves, and supposing him to be a man (whom he is always said to befriend), came and placed himself under him, to convey him on his back in safety to the shore.\n
+
+When the Dolphin arrived with his burden in sight of land not far from Athens, he demanded of the Monkey if he were an Athenian, who answered that he was, and that he was descended from one of the noblest families in that city.
+
+The Dolphin then inquired if he knew the Piræus (the famous harbor of Athens).\n
+
+The Monkey, supposing that a man was meant, and being obliged to support his previous lie, answered that he knew him very well, and that he was an intimate friend, who would, no doubt, be very glad to see him.
+
+The Dolphin, indignant at these falsehoods, dipped the Monkey under the water, and drowned him.</string>
+    <string name="Fable_7_text">On a summer day, when the great heat induced a general thirst, a Lion and a Boar came at the same moment to a small well to drink.\n
+
+They fiercely disputed which of them should drink first, and were soon engaged in the agonies of a mortal combat.
+
+On their stopping on a sudden to take breath for the fiercer renewal of the strife, they saw some Vultures waiting in the distance to feast on the one which should fall first.\n
+
+They at once made up their quarrel, saying:
+
+"It is better for us to make friends, than to become the food of Crows or Vultures, as will certainly happen if we are disabled." </string>
+<string name="Fable_8_text">Two frogs dwelt in the same pool. The pool being dried up under the summer/s  heat, they left it and set out together for another home.\n
+
+As they went along they chanced to pass a deep well, amply supplied with water, on seeing which, one of the Frogs said to the other:\n
+
+"Let us descend and make our abode in this well."\n
+
+The other replied with greater caution:
+
+"But suppose the water should fail us, how can we get out again from so great a depth?"
+</string>
+    <string name="Fable_9_text">A Fisher once took his bagpipes to the bank of a river, and played upon them with the hope of making the fish rise; but never a one put his nose out of the water.\n
+
+So he cast his net into the river and soon drew it forth filled with fish.
+
+Then he took his bagpipes again, and, as he played, the fish leapt up in the net.\n
+
+"Ah, you dance now when I play," said he.\n
+
+"Yes," said an old Fish: "When you are in a man's power you must do as he bids you."
+
+ </string>
+
+    <string name="Fable_10_text">A sick Stag lay down in a quiet corner of his pasture-ground.\n
+
+His companions came in great numbers to inquire after his health, and each one helped himself to a share of the food which had been placed for his use; so that he died, not from his sickness, but from the failure of the means of living.\n
+
+ </string>
+    
 </resources>
